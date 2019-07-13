@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.com/calvinbui/ansible-authorized-keys.svg?branch=master)](https://travis-ci.com/calvinbui/ansible-authorized-keys)
-
+![GitHub release](https://img.shields.io/github/release/calvinbui/ansible-authorized-keys.svg)
+![Ansible Quality Score](https://img.shields.io/ansible/quality/36001.svg)
+![Ansible Role](https://img.shields.io/ansible/role/d/36001.svg)
 # Ansible Authorized Keys
 
 Authorized Keys for SSH access
